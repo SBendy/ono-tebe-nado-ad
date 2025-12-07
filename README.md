@@ -1,1 +1,1 @@
-https://github.com/SvetaKeypop/ono-tebe-nado-ad
+https://github.com/SBendy/ono-tebe-nado-ad
